@@ -1,0 +1,201 @@
+store_id,store_name,city,state,region
+3001,Store_3001,Chennai,Delhi,South
+3002,Store_3002,Bengaluru,Delhi,South
+3003,Store_3003,Hyderabad,Delhi,Central
+3004,Store_3004,Mumbai,Tamil Nadu,North
+3005,Store_3005,Kolkata,Telangana,Central
+3006,Store_3006,Mumbai,Maharashtra,South
+3007,Store_3007,Mumbai,West Bengal,North
+3008,Store_3008,Delhi,Maharashtra,East
+3009,Store_3009,Bengaluru,Karnataka,Central
+3010,Store_3010,Kolkata,Tamil Nadu,Central
+3011,Store_3011,Chennai,Karnataka,Central
+3012,Store_3012,Mumbai,Maharashtra,South
+3013,Store_3013,Hyderabad,Maharashtra,North
+3014,Store_3014,Bengaluru,West Bengal,East
+3015,Store_3015,Chennai,West Bengal,South
+3016,Store_3016,Hyderabad,Karnataka,East
+3017,Store_3017,Kolkata,Telangana,West
+3018,Store_3018,Hyderabad,Karnataka,West
+3019,Store_3019,Kolkata,Telangana,East
+3020,Store_3020,Mumbai,Telangana,West
+3021,Store_3021,Bengaluru,Delhi,North
+3022,Store_3022,Pune,Maharashtra,North
+3023,Store_3023,Kolkata,Delhi,South
+3024,Store_3024,Delhi,Maharashtra,East
+3025,Store_3025,Pune,Delhi,South
+3026,Store_3026,Delhi,Telangana,North
+3027,Store_3027,Bengaluru,Delhi,North
+3028,Store_3028,Chennai,Tamil Nadu,North
+3029,Store_3029,Mumbai,Delhi,Central
+3030,Store_3030,Bengaluru,West Bengal,West
+3031,Store_3031,Pune,West Bengal,South
+3032,Store_3032,Hyderabad,Delhi,South
+3033,Store_3033,Delhi,Delhi,North
+3034,Store_3034,Delhi,Tamil Nadu,Central
+3035,Store_3035,Pune,Maharashtra,South
+3036,Store_3036,Mumbai,Delhi,South
+3037,Store_3037,Bengaluru,Maharashtra,Central
+3038,Store_3038,Pune,West Bengal,North
+3039,Store_3039,Kolkata,Karnataka,Central
+3040,Store_3040,Bengaluru,Telangana,West
+3041,Store_3041,Kolkata,Karnataka,South
+3042,Store_3042,Mumbai,Tamil Nadu,West
+3043,Store_3043,Hyderabad,Tamil Nadu,South
+3044,Store_3044,Kolkata,Maharashtra,West
+3045,Store_3045,Bengaluru,Maharashtra,South
+3046,Store_3046,Kolkata,Delhi,North
+3047,Store_3047,Mumbai,Karnataka,East
+3048,Store_3048,Pune,Maharashtra,Central
+3049,Store_3049,Chennai,West Bengal,South
+3050,Store_3050,Hyderabad,Maharashtra,Central
+3051,Store_3051,Hyderabad,West Bengal,South
+3052,Store_3052,Hyderabad,Maharashtra,East
+3053,Store_3053,Delhi,Telangana,North
+3054,Store_3054,Chennai,Maharashtra,North
+3055,Store_3055,Mumbai,Telangana,Central
+3056,Store_3056,Bengaluru,Tamil Nadu,East
+3057,Store_3057,Pune,Delhi,Central
+3058,Store_3058,Kolkata,Karnataka,North
+3059,Store_3059,Kolkata,Maharashtra,West
+3060,Store_3060,Hyderabad,Telangana,Central
+3061,Store_3061,Hyderabad,Maharashtra,South
+3062,Store_3062,Hyderabad,Maharashtra,North
+3063,Store_3063,Mumbai,Telangana,South
+3064,Store_3064,Pune,Maharashtra,East
+3065,Store_3065,Mumbai,Karnataka,North
+3066,Store_3066,Pune,West Bengal,North
+3067,Store_3067,Bengaluru,West Bengal,Central
+3068,Store_3068,Kolkata,West Bengal,Central
+3069,Store_3069,Delhi,West Bengal,South
+3070,Store_3070,Pune,Tamil Nadu,Central
+3071,Store_3071,Chennai,Delhi,West
+3072,Store_3072,Mumbai,Maharashtra,North
+3073,Store_3073,Mumbai,Telangana,East
+3074,Store_3074,Mumbai,Karnataka,North
+3075,Store_3075,Delhi,Maharashtra,South
+3076,Store_3076,Pune,Tamil Nadu,Central
+3077,Store_3077,Pune,Tamil Nadu,North
+3078,Store_3078,Pune,Telangana,Central
+3079,Store_3079,Pune,Maharashtra,South
+3080,Store_3080,Hyderabad,West Bengal,Central
+3081,Store_3081,Hyderabad,Maharashtra,East
+3082,Store_3082,Chennai,Maharashtra,South
+3083,Store_3083,Mumbai,Tamil Nadu,North
+3084,Store_3084,Kolkata,Maharashtra,North
+3085,Store_3085,Hyderabad,West Bengal,East
+3086,Store_3086,Kolkata,Maharashtra,West
+3087,Store_3087,Kolkata,Maharashtra,Central
+3088,Store_3088,Pune,Maharashtra,North
+3089,Store_3089,Pune,West Bengal,East
+3090,Store_3090,Hyderabad,West Bengal,Central
+3091,Store_3091,Bengaluru,Telangana,South
+3092,Store_3092,Chennai,Tamil Nadu,East
+3093,Store_3093,Kolkata,Delhi,South
+3094,Store_3094,Kolkata,Telangana,South
+3095,Store_3095,Mumbai,West Bengal,South
+3096,Store_3096,Delhi,Maharashtra,Central
+3097,Store_3097,Chennai,Delhi,West
+3098,Store_3098,Mumbai,Karnataka,South
+3099,Store_3099,Mumbai,Delhi,North
+3100,Store_3100,Mumbai,Telangana,Central
+3101,Store_3101,Chennai,Tamil Nadu,Central
+3102,Store_3102,Kolkata,Telangana,South
+3103,Store_3103,Chennai,Tamil Nadu,North
+3104,Store_3104,Hyderabad,Tamil Nadu,East
+3105,Store_3105,Kolkata,West Bengal,Central
+3106,Store_3106,Mumbai,Tamil Nadu,South
+3107,Store_3107,Pune,Karnataka,South
+3108,Store_3108,Mumbai,Delhi,West
+3109,Store_3109,Pune,Telangana,West
+3110,Store_3110,Hyderabad,Telangana,East
+3111,Store_3111,Hyderabad,Tamil Nadu,East
+3112,Store_3112,Mumbai,West Bengal,East
+3113,Store_3113,Chennai,Karnataka,East
+3114,Store_3114,Pune,Karnataka,South
+3115,Store_3115,Pune,Maharashtra,South
+3116,Store_3116,Pune,Karnataka,South
+3117,Store_3117,Pune,Tamil Nadu,North
+3118,Store_3118,Delhi,Tamil Nadu,East
+3119,Store_3119,Hyderabad,Delhi,North
+3120,Store_3120,Pune,Tamil Nadu,Central
+3121,Store_3121,Delhi,Delhi,Central
+3122,Store_3122,Delhi,Karnataka,South
+3123,Store_3123,Hyderabad,Maharashtra,Central
+3124,Store_3124,Bengaluru,West Bengal,South
+3125,Store_3125,Mumbai,Telangana,East
+3126,Store_3126,Hyderabad,Tamil Nadu,North
+3127,Store_3127,Bengaluru,Karnataka,South
+3128,Store_3128,Chennai,Tamil Nadu,West
+3129,Store_3129,Mumbai,Delhi,West
+3130,Store_3130,Mumbai,Karnataka,East
+3131,Store_3131,Mumbai,Telangana,North
+3132,Store_3132,Delhi,Delhi,South
+3133,Store_3133,Pune,Karnataka,East
+3134,Store_3134,Mumbai,West Bengal,North
+3135,Store_3135,Kolkata,West Bengal,West
+3136,Store_3136,Pune,Telangana,South
+3137,Store_3137,Mumbai,West Bengal,North
+3138,Store_3138,Delhi,Delhi,Central
+3139,Store_3139,Chennai,Telangana,South
+3140,Store_3140,Mumbai,Karnataka,Central
+3141,Store_3141,Hyderabad,Delhi,East
+3142,Store_3142,Kolkata,West Bengal,North
+3143,Store_3143,Bengaluru,Maharashtra,North
+3144,Store_3144,Mumbai,Tamil Nadu,North
+3145,Store_3145,Kolkata,West Bengal,North
+3146,Store_3146,Bengaluru,Maharashtra,South
+3147,Store_3147,Bengaluru,Telangana,Central
+3148,Store_3148,Kolkata,Karnataka,Central
+3149,Store_3149,Delhi,Tamil Nadu,East
+3150,Store_3150,Chennai,Karnataka,East
+3151,Store_3151,Bengaluru,Telangana,North
+3152,Store_3152,Delhi,Karnataka,West
+3153,Store_3153,Chennai,Delhi,West
+3154,Store_3154,Mumbai,Delhi,North
+3155,Store_3155,Pune,West Bengal,Central
+3156,Store_3156,Delhi,West Bengal,East
+3157,Store_3157,Bengaluru,West Bengal,South
+3158,Store_3158,Bengaluru,West Bengal,West
+3159,Store_3159,Mumbai,Telangana,East
+3160,Store_3160,Kolkata,Karnataka,West
+3161,Store_3161,Delhi,West Bengal,Central
+3162,Store_3162,Mumbai,Telangana,Central
+3163,Store_3163,Delhi,Tamil Nadu,North
+3164,Store_3164,Pune,West Bengal,North
+3165,Store_3165,Hyderabad,Karnataka,West
+3166,Store_3166,Mumbai,Delhi,West
+3167,Store_3167,Bengaluru,Maharashtra,East
+3168,Store_3168,Mumbai,Delhi,North
+3169,Store_3169,Kolkata,Karnataka,Central
+3170,Store_3170,Delhi,Karnataka,East
+3171,Store_3171,Mumbai,Karnataka,East
+3172,Store_3172,Pune,Karnataka,South
+3173,Store_3173,Delhi,West Bengal,Central
+3174,Store_3174,Kolkata,Tamil Nadu,East
+3175,Store_3175,Kolkata,Maharashtra,South
+3176,Store_3176,Chennai,West Bengal,North
+3177,Store_3177,Kolkata,Delhi,Central
+3178,Store_3178,Bengaluru,Tamil Nadu,North
+3179,Store_3179,Bengaluru,Telangana,South
+3180,Store_3180,Delhi,Karnataka,Central
+3181,Store_3181,Chennai,Delhi,West
+3182,Store_3182,Pune,Telangana,West
+3183,Store_3183,Kolkata,Maharashtra,West
+3184,Store_3184,Mumbai,Delhi,East
+3185,Store_3185,Hyderabad,Tamil Nadu,West
+3186,Store_3186,Bengaluru,West Bengal,East
+3187,Store_3187,Pune,Telangana,East
+3188,Store_3188,Kolkata,Delhi,South
+3189,Store_3189,Pune,West Bengal,West
+3190,Store_3190,Pune,West Bengal,Central
+3191,Store_3191,Mumbai,West Bengal,East
+3192,Store_3192,Pune,Tamil Nadu,South
+3193,Store_3193,Pune,Karnataka,East
+3194,Store_3194,Delhi,Delhi,Central
+3195,Store_3195,Delhi,West Bengal,Central
+3196,Store_3196,Pune,Karnataka,West
+3197,Store_3197,Pune,West Bengal,East
+3198,Store_3198,Delhi,Telangana,Central
+3199,Store_3199,Mumbai,Telangana,North
+3200,Store_3200,Delhi,Telangana,Central
