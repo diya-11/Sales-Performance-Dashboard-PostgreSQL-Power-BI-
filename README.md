@@ -108,4 +108,8 @@ Monthly trend showed seasonal rise and fall in sales
 YoY performance highlighted business growth patterns
 
 <img width="764" height="433" alt="pic1" src="https://github.com/user-attachments/assets/d15bee90-8e06-406a-8039-4f0628abc124" />
+<img width="329" height="557" alt="pic4" src="https://github.com/user-attachments/assets/4f012bd3-d713-4fed-a353-e7584a4e984e" />
+<img width="721" height="485" alt="pic5" src="https://github.com/user-attachments/assets/17c6a715-d9e1-453b-88bc-001ae9bd5328" />
+
+
 
